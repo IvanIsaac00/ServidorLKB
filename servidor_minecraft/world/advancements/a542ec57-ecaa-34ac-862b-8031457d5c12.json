@@ -23,6 +23,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-18 04:45:18 +0000"
+    },
+    "done": true
+  },
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_recipe": "2025-04-18 04:32:55 +0000"
@@ -38,6 +44,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-04-18 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-04-18 04:45:18 +0000"
     },
     "done": true
   },
@@ -91,6 +103,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-04-18 04:36:43 +0000",
       "minecraft:forest": "2025-04-18 04:32:56 +0000"
     },
     "done": false
