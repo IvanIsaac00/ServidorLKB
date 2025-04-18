@@ -133,9 +133,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:windswept_hills": "2025-04-18 05:52:17 +0000",
       "minecraft:river": "2025-04-18 04:24:34 +0000",
       "minecraft:forest": "2025-04-18 01:17:02 +0000",
       "minecraft:meadow": "2025-04-18 04:48:40 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-18 07:02:58 +0000",
+      "minecraft:savanna": "2025-04-18 05:29:18 +0000",
       "minecraft:plains": "2025-04-18 04:43:26 +0000"
     },
     "done": false
@@ -220,7 +223,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-04-18 04:35:36 +0000"
+      "apple": "2025-04-18 04:35:36 +0000",
+      "bread": "2025-04-18 05:26:46 +0000",
+      "melon_slice": "2025-04-18 06:46:01 +0000",
+      "beetroot": "2025-04-18 06:36:45 +0000",
+      "carrot": "2025-04-18 05:44:18 +0000"
     },
     "done": false
   },
@@ -232,6 +239,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-18 05:38:33 +0000",
+      "minecraft:skeleton": "2025-04-18 06:25:06 +0000",
+      "minecraft:vindicator": "2025-04-18 05:39:24 +0000",
+      "minecraft:spider": "2025-04-18 06:06:47 +0000",
+      "minecraft:wither_skeleton": "2025-04-18 06:09:28 +0000",
+      "minecraft:cave_spider": "2025-04-18 06:17:39 +0000",
       "minecraft:zombie": "2025-04-18 04:38:57 +0000"
     },
     "done": false
@@ -248,78 +261,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-18 04:51:36 +0000",
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
+      "coded_trigger": "2025-04-18 04:44:52 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
+      "coded_trigger": "2025-04-18 04:44:52 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-18 04:51:32 +0000"
-    },
-    "done": false
+    "done": true
   },
   "undead_revamp2:nowyouknow": {
     "criteria": {
@@ -333,15 +285,165 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "coded_trigger": "2025-04-18 04:44:52 +0000"
+      "iron_chestplate": "2025-04-18 05:17:56 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "betterdungeons:all_dungeons": {
     "criteria": {
-      "coded_trigger": "2025-04-18 04:44:52 +0000"
+      "in_better_spider_dungeon": "2025-04-18 05:25:19 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-18 05:25:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-18 05:35:01 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-04-18 05:37:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 05:38:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-04-18 05:50:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-18 07:12:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-18 06:21:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-04-18 06:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-18 06:16:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 06:50:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 06:39:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-18 05:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-18 06:38:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 06:09:30 +0000"
     },
     "done": true
   },
