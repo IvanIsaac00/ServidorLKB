@@ -642,3 +642,107 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 04:26:34.269] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JovilyBruh[/127.65.20.200:34805] logged in with entity id 3454 at (-34.83589242198754, 81.0, -37.140839205913515)
 [18Apr2025 04:26:34.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh joined the game
 [18Apr2025 04:26:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Getting an Upgrade]
+[18Apr2025 04:27:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Knowledge of Death]
+[18Apr2025 04:27:51.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [A Strange Grave Dust]
+[18Apr2025 04:28:14.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh was slain by Wasp
+[18Apr2025 04:28:14.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Your First Grave]
+[18Apr2025 04:28:14.357] [Server thread/INFO] [tombstone/]: The player JovilyBruh has successfully been saved
+[18Apr2025 04:28:20.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Easter Egg Searcher]
+[18Apr2025 04:28:52.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JovilyBruh was kicked for floating too long!
+[18Apr2025 04:28:52.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JovilyBruh lost connection: Disconnected
+[18Apr2025 04:28:52.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh left the game
+[18Apr2025 04:28:52.812] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Apr2025 04:29:22.569] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JovilyBruh[/127.65.20.200:59991] logged in with entity id 4270 at (24.08634032151261, 73.34998988187529, 36.20052055067993)
+[18Apr2025 04:29:22.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh joined the game
+[18Apr2025 04:29:24.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Getting an Upgrade]
+[18Apr2025 04:29:51.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Stone Age]
+[18Apr2025 04:30:40.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was shot by Skeleton
+[18Apr2025 04:30:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [Your First Grave]
+[18Apr2025 04:30:40.918] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[18Apr2025 04:30:50.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Monster Hunter]
+[18Apr2025 04:31:12.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuGfecitaEn4 was kicked for floating too long!
+[18Apr2025 04:31:12.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Monster Hunter]
+[18Apr2025 04:31:13.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuGfecitaEn4 lost connection: Flying is not enabled on this server
+[18Apr2025 04:31:13.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 left the game
+[18Apr2025 04:31:32.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TuGfecitaEn4[/127.23.253.45:54601] logged in with entity id 5418 at (22.70628450883843, 72.27610442970685, 38.67361686327618)
+[18Apr2025 04:31:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 joined the game
+[18Apr2025 04:32:14.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Stone Age]
+[18Apr2025 04:32:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [The Lighthouse]
+[18Apr2025 04:32:31.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Getting an Upgrade]
+[18Apr2025 04:32:42.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Getting an Upgrade]
+[18Apr2025 04:32:55.308] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[18Apr2025 04:32:55.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: chust1n_[/127.237.38.61:54385] logged in with entity id 5898 at (-41.5, 81.0, -35.5)
+[18Apr2025 04:32:55.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ joined the game
+[18Apr2025 04:32:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ has reached the goal [Easter]
+[18Apr2025 04:32:55.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ has made the advancement [Ice and Fire]
+[18Apr2025 04:32:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ has completed the challenge [The Undead]
+[18Apr2025 04:33:29.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [The Lighthouse]
+[18Apr2025 04:33:57.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh was slain by Zombie
+[18Apr2025 04:33:57.205] [Server thread/INFO] [tombstone/]: The player JovilyBruh has successfully been saved
+[18Apr2025 04:34:20.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JovilyBruh was kicked for floating too long!
+[18Apr2025 04:34:20.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JovilyBruh lost connection: Flying is not enabled on this server
+[18Apr2025 04:34:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh left the game
+[18Apr2025 04:34:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has completed the challenge [I'm not sugar coating it]
+[18Apr2025 04:34:26.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by The Wolf
+[18Apr2025 04:34:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Your First Grave]
+[18Apr2025 04:34:26.274] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[18Apr2025 04:34:43.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JovilyBruh[/127.65.20.200:37473] logged in with entity id 6782 at (32.577937403319275, 72.11071530842175, 28.248362692137896)
+[18Apr2025 04:34:43.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh joined the game
+[18Apr2025 04:35:17.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Knowledge of Death]
+[18Apr2025 04:35:17.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has reached the goal [Here They Come]
+[18Apr2025 04:35:27.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [The Lighthouse]
+[18Apr2025 04:35:35.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Apr2025 04:35:44.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was squashed by a falling anvil
+[18Apr2025 04:35:44.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Your First Grave]
+[18Apr2025 04:35:44.436] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[18Apr2025 04:35:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was squashed by a falling anvil
+[18Apr2025 04:35:46.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Your First Grave]
+[18Apr2025 04:35:46.191] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[18Apr2025 04:35:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Knowledge of Death]
+[18Apr2025 04:35:50.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has reached the goal [Here They Come]
+[18Apr2025 04:35:58.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh was slain by Zombie
+[18Apr2025 04:35:58.995] [Server thread/INFO] [tombstone/]: The player JovilyBruh has successfully been saved
+[18Apr2025 04:36:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Zombie
+[18Apr2025 04:36:01.523] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[18Apr2025 04:36:28.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuGfecitaEn4 was kicked for floating too long!
+[18Apr2025 04:36:28.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuGfecitaEn4 lost connection: Flying is not enabled on this server
+[18Apr2025 04:36:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 left the game
+[18Apr2025 04:36:38.057] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=405, y=97, z=11}
+[18Apr2025 04:36:38.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has reached the goal [Here They Come]
+[18Apr2025 04:36:40.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[18Apr2025 04:36:40.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=405, y=97, z=11} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[18Apr2025 04:36:40.930] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location BlockPos{x=405, y=97, z=11}
+[18Apr2025 04:36:43.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Monster Hunter]
+[18Apr2025 04:36:55.756] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@22ad4f9[id=<null>,name=TuGfecitaEn4,properties={},legacy=false] (/127.23.253.45:48403) lost connection: Disconnected
+[18Apr2025 04:37:04.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TuGfecitaEn4[/127.23.253.45:51637] logged in with entity id 9424 at (24.645358288914835, 66.67432107688238, 40.75184437119142)
+[18Apr2025 04:37:04.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 joined the game
+[18Apr2025 04:37:15.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[18Apr2025 04:37:24.797] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-277, y=68, z=309}
+[18Apr2025 04:37:26.315] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-277, y=68, z=309} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[18Apr2025 04:37:26.315] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=-277, y=68, z=309}
+[18Apr2025 04:37:26.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-278, y=68, z=309} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[18Apr2025 04:37:26.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=-278, y=68, z=309}
+[18Apr2025 04:37:26.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-278, y=67, z=309} but found not block entity block Block{minecraft:lantern}[hanging=true,waterlogged=false] at location
+[18Apr2025 04:37:26.316] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=true,waterlogged=false] but failed at location BlockPos{x=-278, y=67, z=309}
+[18Apr2025 04:37:34.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
+[18Apr2025 04:37:42.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: breideuS[/127.240.190.236:41595] logged in with entity id 9945 at (-24.5, 81.0, -28.5)
+[18Apr2025 04:37:42.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS joined the game
+[18Apr2025 04:37:42.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has reached the goal [Easter]
+[18Apr2025 04:37:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has made the advancement [Ice and Fire]
+[18Apr2025 04:37:42.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has completed the challenge [The Undead]
+[18Apr2025 04:37:52.723] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Apr2025 04:37:54.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4983ms or 99 ticks behind
+[18Apr2025 04:37:54.526] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[18Apr2025 04:37:57.681] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: breideuS lost connection: Disconnected
+[18Apr2025 04:37:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS left the game
+[18Apr2025 04:38:13.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4411ms or 88 ticks behind
+[18Apr2025 04:38:14.730] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=411, y=67, z=-539}
+[18Apr2025 04:38:18.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sopita0n0 moved too quickly! -7.346826067864129,-1.252203340253729,-6.801631582699656
+[18Apr2025 04:38:26.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[18Apr2025 04:38:29.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[18Apr2025 04:38:29.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[18Apr2025 04:38:29.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[18Apr2025 04:38:29.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[18Apr2025 04:38:29.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[18Apr2025 04:38:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [The Lighthouse]
+[18Apr2025 04:38:37.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8846ms or 176 ticks behind

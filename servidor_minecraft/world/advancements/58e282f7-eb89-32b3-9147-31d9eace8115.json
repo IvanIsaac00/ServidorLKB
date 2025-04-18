@@ -133,7 +133,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-04-18 01:15:18 +0000"
+      "minecraft:river": "2025-04-18 04:31:12 +0000",
+      "minecraft:forest": "2025-04-18 01:15:18 +0000",
+      "minecraft:meadow": "2025-04-18 04:31:52 +0000"
     },
     "done": false
   },
@@ -161,9 +163,63 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-18 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-18 04:33:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-04-18 04:33:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-04-18 04:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-18 04:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-18 04:26:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-04-18 04:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-18 04:27:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-04-18 04:27:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 04:27:51 +0000"
     },
     "done": true
   },
