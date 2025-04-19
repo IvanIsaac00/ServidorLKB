@@ -8522,3 +8522,71 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 03:37:29.277] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
 [19Apr2025 03:37:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
 [19Apr2025 03:37:46.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5859ms or 117 ticks behind
+[19Apr2025 03:38:07.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5974ms or 119 ticks behind
+[19Apr2025 03:38:26.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4430ms or 88 ticks behind
+[19Apr2025 03:38:45.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3678ms or 73 ticks behind
+[19Apr2025 03:38:46.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Sneak 100]
+[19Apr2025 03:39:04.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[19Apr2025 03:39:23.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was shot by Skeleton
+[19Apr2025 03:39:23.143] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 03:39:23.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4320ms or 86 ticks behind
+[19Apr2025 03:39:29.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
+[19Apr2025 03:39:34.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/77612, l='ServerLevel[world]', x=67.51, y=212.00, z=-904.97] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:39:35.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/77644, l='ServerLevel[world]', x=67.19, y=211.54, z=-904.07] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:39:44.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6271ms or 125 ticks behind
+[19Apr2025 03:40:04.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4902ms or 98 ticks behind
+[19Apr2025 03:40:24.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4660ms or 93 ticks behind
+[19Apr2025 03:40:43.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[19Apr2025 03:40:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was struck by lightning
+[19Apr2025 03:40:49.499] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:40:58.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AidenOtter to JovilyBruh
+[19Apr2025 03:40:59.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 fell from a high place
+[19Apr2025 03:40:59.626] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[19Apr2025 03:41:02.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
+[19Apr2025 03:41:21.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[19Apr2025 03:41:40.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3999ms or 79 ticks behind
+[19Apr2025 03:41:59.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4181ms or 83 ticks behind
+[19Apr2025 03:42:18.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[19Apr2025 03:42:36.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
+[19Apr2025 03:42:55.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3354ms or 67 ticks behind
+[19Apr2025 03:43:03.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh was slain by Skeleton
+[19Apr2025 03:43:03.861] [Server thread/INFO] [tombstone/]: The player JovilyBruh has successfully been saved
+[19Apr2025 03:43:11.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported JovilyBruh to AidenOtter
+[19Apr2025 03:43:15.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5199ms or 103 ticks behind
+[19Apr2025 03:43:36.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5760ms or 115 ticks behind
+[19Apr2025 03:43:42.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was slain by Skeleton
+[19Apr2025 03:43:42.761] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 03:43:50.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
+[19Apr2025 03:43:57.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6746ms or 134 ticks behind
+[19Apr2025 03:44:17.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4568ms or 91 ticks behind
+[19Apr2025 03:44:36.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4578ms or 91 ticks behind
+[19Apr2025 03:44:56.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4348ms or 86 ticks behind
+[19Apr2025 03:45:15.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[19Apr2025 03:45:36.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5139ms or 102 ticks behind
+[19Apr2025 03:45:38.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was slain by Skeleton
+[19Apr2025 03:45:38.626] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 03:45:45.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
+[19Apr2025 03:45:56.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5416ms or 108 ticks behind
+[19Apr2025 03:46:02.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Skeleton
+[19Apr2025 03:46:02.068] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[19Apr2025 03:46:09.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was slain by Skeleton
+[19Apr2025 03:46:09.842] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:46:16.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4913ms or 98 ticks behind
+[19Apr2025 03:46:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
+[19Apr2025 03:46:36.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5037ms or 100 ticks behind
+[19Apr2025 03:46:38.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 went off with a bang
+[19Apr2025 03:46:38.969] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:46:50.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was struck by lightning
+[19Apr2025 03:46:50.609] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:46:56.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5175ms or 103 ticks behind
+[19Apr2025 03:46:57.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AidenOtter to chust1n_
+[19Apr2025 03:47:11.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ has reached the goal [Expert Searcher]
+[19Apr2025 03:47:15.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
+[19Apr2025 03:47:25.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was slain by Skeleton
+[19Apr2025 03:47:25.083] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:47:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AidenOtter to chust1n_
+[19Apr2025 03:47:31.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was slain by Skeleton
+[19Apr2025 03:47:31.369] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 03:47:36.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5895ms or 117 ticks behind
+[19Apr2025 03:47:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to AidenOtter
+[19Apr2025 03:47:58.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7435ms or 148 ticks behind
