@@ -1431,3 +1431,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 21:29:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has completed the challenge [It Spreads]
 [19Apr2025 21:31:45.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22143, l='ServerLevel[world]', x=1626.50, y=73.00, z=-492.50]
 [19Apr2025 21:33:06.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Mine? Mine? Mine?]
+[19Apr2025 21:35:00.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/24957, l='ServerLevel[world]', x=1609.50, y=74.00, z=104.50]
+[19Apr2025 21:35:06.266] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1525, y=78, z=357}
+[19Apr2025 21:35:08.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
+[19Apr2025 21:36:24.475] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Apr2025 21:37:31.009] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2181, y=97, z=965}
+[19Apr2025 21:37:34.850] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Apr2025 21:37:34.850] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Apr2025 21:39:48.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Piglin Brute
+[19Apr2025 21:39:49.134] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:40:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was shot by Piglin
+[19Apr2025 21:40:26.426] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:40:27.364] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/29490, l='ServerLevel[world]', x=2061.18, y=1.21, z=1025.01, removed=DISCARDED]
+[19Apr2025 21:43:37.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Wingin' It]
+[19Apr2025 21:45:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Piglin Brute
+[19Apr2025 21:45:04.318] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:45:05.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/29490, l='ServerLevel[world]', x=2061.18, y=1.21, z=1025.01, removed=DISCARDED]
