@@ -258,6 +258,7 @@
       "minecraft:vindicator": "2025-04-18 05:13:49 +0000",
       "minecraft:spider": "2025-04-18 04:46:42 +0000",
       "minecraft:creeper": "2025-04-19 02:27:20 +0000",
+      "minecraft:evoker": "2025-04-19 03:03:19 +0000",
       "minecraft:wither_skeleton": "2025-04-18 06:04:29 +0000",
       "minecraft:husk": "2025-04-18 05:27:12 +0000",
       "minecraft:cave_spider": "2025-04-18 06:06:19 +0000",
@@ -440,16 +441,47 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-19 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 03:09:12 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-04-19 03:03:19 +0000",
       "killed_illusioner": "2025-04-19 02:31:29 +0000",
       "killed_iceologer": "2025-04-19 02:37:06 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-04-19 03:09:14 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-04-19 02:58:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 03:09:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-04-19 03:09:14 +0000"
     },
     "done": true
   },
@@ -471,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-19 03:09:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-04-19 01:57:16 +0000"
@@ -482,6 +520,12 @@
       "hero_of_the_village": "2025-04-19 02:45:16 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-04-19 03:09:14 +0000"
+    },
+    "done": false
   },
   "tombstone:adventure/death_master": {
     "criteria": {

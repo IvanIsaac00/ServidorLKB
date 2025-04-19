@@ -562,6 +562,18 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-04-19 03:03:04 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-04-19 03:03:04 +0000"
+    },
+    "done": false
+  },
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted_0": "2025-04-19 02:53:37 +0000"
