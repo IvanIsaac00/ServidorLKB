@@ -435,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-19 03:18:39 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/kill_illusioner": {
     "criteria": {
       "killed_illusioner": "2025-04-19 02:31:29 +0000"

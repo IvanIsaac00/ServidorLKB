@@ -8406,3 +8406,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 03:16:26.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/64625, l='ServerLevel[world]', x=83.18, y=-20.00, z=-149.17] died: Toxic Slime was killed
 [19Apr2025 03:16:42.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7805ms or 156 ticks behind
 [19Apr2025 03:17:04.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7653ms or 153 ticks behind
+[19Apr2025 03:17:29.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10101ms or 202 ticks behind
+[19Apr2025 03:17:51.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6982ms or 139 ticks behind
+[19Apr2025 03:18:10.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4130ms or 82 ticks behind
+[19Apr2025 03:18:19.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TuGfecitaEn4[/127.23.253.45:37353] logged in with entity id 67396 at (183.30000001192093, 45.0, -1059.699999988079)
+[19Apr2025 03:18:19.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 joined the game
+[19Apr2025 03:18:29.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/66213, l='ServerLevel[world]', x=88.06, y=-20.00, z=-88.44] died: Restless Spirit was killed
+[19Apr2025 03:18:30.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4388ms or 87 ticks behind
+[19Apr2025 03:18:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Best Friends Forever]
+[19Apr2025 03:18:50.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5512ms or 110 ticks behind
+[19Apr2025 03:19:11.459] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67710, l='ServerLevel[world]', x=82.95, y=-20.00, z=-91.98] died: Toxic Slime was killed
+[19Apr2025 03:19:12.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
+[19Apr2025 03:19:37.501] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9985ms or 199 ticks behind
+[19Apr2025 03:20:03.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10652ms or 213 ticks behind
+[19Apr2025 03:20:11.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Gearling
+[19Apr2025 03:20:12.127] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:20:17.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [War Pigs]
+[19Apr2025 03:20:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> diego que wa
+[19Apr2025 03:20:30.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12234ms or 244 ticks behind
+[19Apr2025 03:20:34.604] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67745, l='ServerLevel[world]', x=100.73, y=-20.00, z=-58.73] died: Toxic Slime was killed
+[19Apr2025 03:20:34.772] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/67289, l='ServerLevel[world]', x=58.15, y=190.00, z=-829.85] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:20:40.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/68034, l='ServerLevel[world]', x=59.17, y=190.00, z=-829.46] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:20:41.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67696, l='ServerLevel[world]', x=90.53, y=-20.00, z=-87.21] died: Toxic Slime was killed
+[19Apr2025 03:20:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has reached the goal [Chain Death]
+[19Apr2025 03:20:42.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Gearling
+[19Apr2025 03:20:42.547] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:20:56.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11334ms or 226 ticks behind
+[19Apr2025 03:20:57.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/68042, l='ServerLevel[world]', x=57.50, y=190.00, z=-829.85] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:21:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Gearling
+[19Apr2025 03:21:18.963] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:21:22.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11010ms or 220 ticks behind
+[19Apr2025 03:21:38.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/68019, l='ServerLevel[world]', x=65.76, y=191.17, z=-834.35] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:21:48.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10905ms or 218 ticks behind
+[19Apr2025 03:21:49.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/67262, l='ServerLevel[world]', x=66.81, y=190.00, z=-828.80] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:22:13.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29836, l='ServerLevel[world]', x=183.67, y=67.36, z=-1066.63] died, message: 'Villager was slain by TuGfecitaEn4'
+[19Apr2025 03:22:13.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [Neighborhood Brawl]
+[19Apr2025 03:22:13.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10456ms or 209 ticks behind
+[19Apr2025 03:22:38.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67675, l='ServerLevel[world]', x=48.81, y=-20.00, z=-122.12] died: Toxic Slime was killed
+[19Apr2025 03:22:39.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10298ms or 205 ticks behind
+[19Apr2025 03:22:47.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Skeleton
+[19Apr2025 03:22:47.522] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:23:05.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11136ms or 222 ticks behind
+[19Apr2025 03:23:29.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9616ms or 192 ticks behind
+[19Apr2025 03:23:53.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8134ms or 162 ticks behind
+[19Apr2025 03:24:16.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8549ms or 170 ticks behind
+[19Apr2025 03:24:21.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/67318, l='ServerLevel[world]', x=64.94, y=212.00, z=-847.42] died: Gearling was slain by Sopita0n0
+[19Apr2025 03:24:39.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8311ms or 166 ticks behind
+[19Apr2025 03:25:03.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8624ms or 172 ticks behind
+[19Apr2025 03:25:26.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8368ms or 167 ticks behind
+[19Apr2025 03:25:50.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[19Apr2025 03:26:04.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/70544, l='ServerLevel[world]', x=62.92, y=30.00, z=-308.35] died: Headless Warrior was slain by JovilyBruh
+[19Apr2025 03:26:05.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/70048, l='ServerLevel[world]', x=63.49, y=30.00, z=-308.65] died: Headless Warrior was slain by JovilyBruh
+[19Apr2025 03:26:13.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8088ms or 161 ticks behind
+[19Apr2025 03:26:36.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8261ms or 165 ticks behind
+[19Apr2025 03:26:59.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8331ms or 166 ticks behind
+[19Apr2025 03:27:23.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8211ms or 164 ticks behind
