@@ -1745,3 +1745,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 22:35:19.489] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
 [19Apr2025 22:35:33.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
 [19Apr2025 22:35:33.604] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:39:06.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sopita0n0 moved wrongly!
+[19Apr2025 22:40:11.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sopita0n0 moved wrongly!
+[19Apr2025 22:40:15.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:40:15.698] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:41:33.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:41:34.078] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:42:43.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:42:43.786] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:44:08.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:44:08.895] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:44:45.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:44:46.136] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:45:24.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:45:24.847] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:46:06.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 burned to death
+[19Apr2025 22:46:07.454] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
