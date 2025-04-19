@@ -1761,3 +1761,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 22:45:24.847] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
 [19Apr2025 22:46:06.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 burned to death
 [19Apr2025 22:46:07.454] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:46:37.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:46:37.609] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:47:15.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:47:15.581] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:47:35.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:47:35.995] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:48:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:48:23.682] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:49:03.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:49:04.235] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:49:19.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:49:20.205] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:49:39.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:49:39.626] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:50:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:50:07.459] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:50:33.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:50:34.402] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:50:53.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:50:53.664] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:54:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [You Are A Pirate]
