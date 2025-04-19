@@ -7950,3 +7950,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 02:03:43.360] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
 [19Apr2025 02:03:44.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12436ms or 248 ticks behind
 [19Apr2025 02:04:10.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11115ms or 222 ticks behind
+[19Apr2025 02:04:36.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10538ms or 210 ticks behind
+[19Apr2025 02:05:05.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14593ms or 291 ticks behind
+[19Apr2025 02:05:26.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ has made the advancement [Ambush]
+[19Apr2025 02:05:30.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10133ms or 202 ticks behind
+[19Apr2025 02:05:51.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [Hide and Seek]
+[19Apr2025 02:05:55.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10018ms or 200 ticks behind
+[19Apr2025 02:06:22.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11807ms or 236 ticks behind
+[19Apr2025 02:06:51.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13977ms or 279 ticks behind
+[19Apr2025 02:07:19.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13302ms or 266 ticks behind
+[19Apr2025 02:07:27.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was blown up by Creeper
+[19Apr2025 02:07:27.739] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 02:07:50.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15493ms or 309 ticks behind
+[19Apr2025 02:08:01.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to Sopita0n0
+[19Apr2025 02:08:20.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15695ms or 313 ticks behind
+[19Apr2025 02:08:49.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13208ms or 264 ticks behind
+[19Apr2025 02:08:54.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Fire Dragon
+[19Apr2025 02:08:54.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sopita0n0 moved too quickly! -8.750281512737274,-4.065777540206909,-10.45746706302566
+[19Apr2025 02:08:54.553] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 02:09:15.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sopita0n0 to chust1n_
+[19Apr2025 02:09:17.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13814ms or 276 ticks behind
+[19Apr2025 02:09:45.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13022ms or 260 ticks behind
+[19Apr2025 02:09:56.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [This Must be a Sign!]
+[19Apr2025 02:10:14.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13702ms or 274 ticks behind
+[19Apr2025 02:10:44.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15470ms or 309 ticks behind
+[19Apr2025 02:10:50.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was doomed to fall
+[19Apr2025 02:10:50.715] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 02:11:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sopita0n0 to chust1n_
+[19Apr2025 02:11:14.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14574ms or 291 ticks behind
+[19Apr2025 02:11:39.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10359ms or 207 ticks behind
+[19Apr2025 02:12:01.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sopita0n0 to 55.500000, 144.000000, -839.500000
+[19Apr2025 02:12:05.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10671ms or 213 ticks behind
+[19Apr2025 02:12:08.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to Sopita0n0
+[19Apr2025 02:12:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 fell from a high place
+[19Apr2025 02:12:10.089] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 02:12:21.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Sopita0n0 to chust1n_
+[19Apr2025 02:12:30.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9579ms or 191 ticks behind
+[19Apr2025 02:12:54.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8954ms or 179 ticks behind
+[19Apr2025 02:13:20.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11846ms or 236 ticks behind
+[19Apr2025 02:13:23.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/16414, l='ServerLevel[world]', x=918.30, y=64.76, z=-959.36] died, message: 'Librarian tried to swim in lava'
+[19Apr2025 02:13:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ burned to death
+[19Apr2025 02:13:34.947] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 02:13:50.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14309ms or 286 ticks behind
+[19Apr2025 02:13:57.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported chust1n_ to Sopita0n0
+[19Apr2025 02:14:19.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14015ms or 280 ticks behind
+[19Apr2025 02:14:44.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10540ms or 210 ticks behind
