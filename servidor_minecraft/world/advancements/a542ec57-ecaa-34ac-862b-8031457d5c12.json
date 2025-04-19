@@ -432,5 +432,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/expert_searcher": {
+    "criteria": {
+      "find_easter_egg": "2025-04-19 03:47:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
