@@ -133,6 +133,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-19 21:50:55 +0000",
       "minecraft:taiga": "2025-04-19 21:07:20 +0000",
       "minecraft:frozen_river": "2025-04-19 21:16:38 +0000",
       "minecraft:cherry_grove": "2025-04-18 06:25:33 +0000",
@@ -151,6 +152,7 @@
       "minecraft:cold_ocean": "2025-04-19 21:33:28 +0000",
       "minecraft:forest": "2025-04-18 04:19:33 +0000",
       "minecraft:frozen_ocean": "2025-04-19 21:14:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-19 21:50:51 +0000",
       "minecraft:snowy_beach": "2025-04-19 21:16:37 +0000",
       "minecraft:flower_forest": "2025-04-19 21:03:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 04:37:49 +0000",
@@ -712,6 +714,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-19 22:00:53 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-04-19 21:38:13 +0000"
@@ -733,6 +807,12 @@
   "tombstone:adventure/use_purification": {
     "criteria": {
       "has_magic_scroll": "2025-04-19 21:28:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-19 21:53:21 +0000"
     },
     "done": true
   },

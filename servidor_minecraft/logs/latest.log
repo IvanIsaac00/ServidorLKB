@@ -1456,3 +1456,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 21:53:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Tie me to the Mast]
 [19Apr2025 21:55:19.246] [pool-6-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2459, y=74, z=1861}
 [19Apr2025 21:55:22.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
+[19Apr2025 21:59:03.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Beast
+[19Apr2025 21:59:03.833] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:01:49.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Beast
+[19Apr2025 22:01:50.279] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:02:14.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was burnt to a crisp whilst fighting Dread Knight
+[19Apr2025 22:02:15.001] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:02:36.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:02:37.451] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:02:52.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Ghoul
+[19Apr2025 22:02:52.676] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:03:10.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:03:10.825] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:03:20.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Beast
+[19Apr2025 22:03:20.857] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:03:39.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:03:39.931] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:03:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:03:52.529] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:04:00.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Knight
+[19Apr2025 22:04:01.006] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 22:04:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Dread Thrall
+[19Apr2025 22:04:12.933] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
