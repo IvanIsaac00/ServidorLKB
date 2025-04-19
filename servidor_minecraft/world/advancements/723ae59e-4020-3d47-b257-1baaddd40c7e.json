@@ -204,6 +204,7 @@
       "minecraft:pillager": "2025-04-19 02:21:31 +0000",
       "minecraft:skeleton": "2025-04-18 04:31:12 +0000",
       "minecraft:spider": "2025-04-18 04:50:29 +0000",
+      "minecraft:creeper": "2025-04-19 02:49:33 +0000",
       "minecraft:wither_skeleton": "2025-04-18 06:10:23 +0000",
       "minecraft:cave_spider": "2025-04-18 06:07:16 +0000",
       "minecraft:zombie": "2025-04-18 04:37:34 +0000"
@@ -404,6 +405,24 @@
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly": "2025-04-19 02:25:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-19 02:54:41 +0000"
+    },
+    "done": false
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-04-19 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-19 02:45:16 +0000"
     },
     "done": true
   },
