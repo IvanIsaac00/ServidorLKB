@@ -8709,3 +8709,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 04:08:15.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5559ms or 111 ticks behind
 [19Apr2025 04:08:34.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4168ms or 83 ticks behind
 [19Apr2025 04:08:53.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3621ms or 72 ticks behind
+[19Apr2025 04:09:13.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4784ms or 95 ticks behind
+[19Apr2025 04:09:31.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3475ms or 69 ticks behind
+[19Apr2025 04:09:47.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS liquified to Fanta juice
+[19Apr2025 04:09:48.321] [Server thread/INFO] [tombstone/]: The player breideuS has successfully been saved
+[19Apr2025 04:09:49.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3237ms or 64 ticks behind
+[19Apr2025 04:09:52.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: breideuS lost connection: Disconnected
+[19Apr2025 04:09:52.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS left the game
+[19Apr2025 04:10:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 died
+[19Apr2025 04:10:12.184] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 04:10:23.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerar3souls lost connection: Disconnected
+[19Apr2025 04:10:23.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls left the game
