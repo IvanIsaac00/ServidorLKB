@@ -1425,3 +1425,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 21:24:09.815] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
 [19Apr2025 21:24:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was killed by Mr. Pumpkin using magic
 [19Apr2025 21:24:29.338] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:25:02.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was shot by Pumpkinhead
+[19Apr2025 21:25:03.114] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:28:46.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has reached the goal [A little cleaning is necessary]
+[19Apr2025 21:29:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has completed the challenge [It Spreads]
+[19Apr2025 21:31:45.706] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/22143, l='ServerLevel[world]', x=1626.50, y=73.00, z=-492.50]
+[19Apr2025 21:33:06.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Mine? Mine? Mine?]
