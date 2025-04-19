@@ -8270,3 +8270,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 02:56:18.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was killed by magic whilst trying to escape Alchemist
 [19Apr2025 02:56:18.612] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
 [19Apr2025 02:56:20.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6203ms or 124 ticks behind
+[19Apr2025 02:56:35.893] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/30106, l='ServerLevel[world]', x=238.34, y=70.00, z=-1107.87] died, message: 'Nitwit was slain by Vindicator'
+[19Apr2025 02:56:43.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7955ms or 159 ticks behind
+[19Apr2025 02:56:55.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 froze to death
+[19Apr2025 02:56:55.953] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[19Apr2025 02:56:57.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31953, l='ServerLevel[world]', x=192.41, y=70.00, z=-1088.78] died, message: 'Fletcher was slain by Inquisitor'
+[19Apr2025 02:57:02.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AidenOtter to gerar3souls
+[19Apr2025 02:57:03.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/30088, l='ServerLevel[world]', x=192.27, y=70.00, z=-1075.08] died, message: 'Nitwit was slain by Inquisitor'
+[19Apr2025 02:57:05.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6925ms or 138 ticks behind
+[19Apr2025 02:57:10.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Ice Bucket Challenge]
+[19Apr2025 02:57:18.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [I was here, i lived, i..]
+[19Apr2025 02:57:19.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was killed by magic
+[19Apr2025 02:57:19.835] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 02:57:26.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5814ms or 116 ticks behind
+[19Apr2025 02:57:29.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by Inquisitor
+[19Apr2025 02:57:30.417] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[19Apr2025 02:57:47.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6090ms or 121 ticks behind
+[19Apr2025 02:58:07.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4468ms or 89 ticks behind
+[19Apr2025 02:58:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has completed the challenge [Village Defender]
+[19Apr2025 02:58:25.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3574ms or 71 ticks behind
+[19Apr2025 02:58:43.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was slain by Zombie
+[19Apr2025 02:58:43.081] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 02:58:43.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3006ms or 60 ticks behind
+[19Apr2025 02:58:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was slain by Botfly
+[19Apr2025 02:58:53.109] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 02:59:02.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
+[19Apr2025 02:59:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by Vindicator
+[19Apr2025 02:59:16.578] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[19Apr2025 02:59:21.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3948ms or 78 ticks behind
+[19Apr2025 02:59:39.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Hot Stuff]
+[19Apr2025 02:59:40.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3863ms or 77 ticks behind
+[19Apr2025 02:59:58.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
+[19Apr2025 03:00:17.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[19Apr2025 03:00:35.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[19Apr2025 03:00:53.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[19Apr2025 03:01:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 fell from a high place
+[19Apr2025 03:01:06.621] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[19Apr2025 03:01:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported AidenOtter to gerar3souls
+[19Apr2025 03:01:09.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TuGfecitaEn4 lost connection: Disconnected
+[19Apr2025 03:01:09.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 left the game
+[19Apr2025 03:01:11.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3019ms or 60 ticks behind
+[19Apr2025 03:01:20.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/29072, l='ServerLevel[world]', x=201.45, y=75.00, z=-1041.94] died, message: 'Beekeeper hit the ground too hard'
+[19Apr2025 03:01:32.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Apr2025 03:01:43.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=202, y=69, z=-1068} BlockPos{x=200, y=68, z=-1067}
+[19Apr2025 03:01:58.573] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19Apr2025 03:02:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was chopped to bits by Skirmisher
+[19Apr2025 03:02:14.069] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:02:44.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Apr2025 03:02:52.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AidenOtter moved wrongly!
+[19Apr2025 03:02:57.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was shot by Illusioner
+[19Apr2025 03:02:58.049] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[19Apr2025 03:03:02.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[19Apr2025 03:03:04.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [World of illusion]
+[19Apr2025 03:03:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was killed by magic whilst trying to escape Skeleton
+[19Apr2025 03:03:08.147] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 03:03:19.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has completed the challenge [The Magicians]
+[19Apr2025 03:03:19.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [I was here, i lived, i..]
+[19Apr2025 03:03:20.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[19Apr2025 03:03:26.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: chust1n_ was shot by Illusioner
+[19Apr2025 03:03:26.251] [Server thread/INFO] [tombstone/]: The player chust1n_ has successfully been saved
+[19Apr2025 03:03:38.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[19Apr2025 03:03:55.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Apr2025 03:05:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [We Need to Go Deeper]
+[19Apr2025 03:05:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Incendium]
+[19Apr2025 03:05:18.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sopita0n0 moved too quickly! -5.277439056973037,3.044812420399012,8.02141032506006
+[19Apr2025 03:05:18.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10771ms or 215 ticks behind
+[19Apr2025 03:05:20.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Ancient Battlefield]
+[19Apr2025 03:05:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Strange Biomes]
+[19Apr2025 03:05:40.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6854ms or 137 ticks behind
+[19Apr2025 03:05:54.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/61637, l='ServerLevel[world]', x=32.47, y=72.00, z=-143.51] died: Headless Warrior was slain by Piglin Brute
+[19Apr2025 03:06:02.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/61376, l='ServerLevel[world]', x=25.07, y=67.00, z=-146.09] died: Headless Warrior was slain by Piglin
+[19Apr2025 03:06:05.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9450ms or 189 ticks behind
+[19Apr2025 03:06:31.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11076ms or 221 ticks behind
+[19Apr2025 03:06:35.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JovilyBruh has made the advancement [Those Were the Days]

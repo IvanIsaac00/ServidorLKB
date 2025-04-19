@@ -408,15 +408,21 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-19 02:54:41 +0000"
-    },
-    "done": false
-  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow": "2025-04-19 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-19 02:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-19 02:57:10 +0000"
     },
     "done": true
   },
