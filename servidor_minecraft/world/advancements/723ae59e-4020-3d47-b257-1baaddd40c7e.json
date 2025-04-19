@@ -395,15 +395,15 @@
     },
     "done": true
   },
-  "undead_revamp2:oneskelly": {
-    "criteria": {
-      "oneskelly": "2025-04-19 02:25:38 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-19 02:21:31 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly": "2025-04-19 02:25:38 +0000"
     },
     "done": true
   },
