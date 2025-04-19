@@ -146,6 +146,7 @@
       "minecraft:stony_shore": "2025-04-19 21:37:41 +0000",
       "minecraft:dripstone_caves": "2025-04-18 06:25:46 +0000",
       "minecraft:snowy_taiga": "2025-04-19 21:16:50 +0000",
+      "minecraft:grove": "2025-04-19 21:50:11 +0000",
       "minecraft:swamp": "2025-04-19 21:04:12 +0000",
       "minecraft:cold_ocean": "2025-04-19 21:33:28 +0000",
       "minecraft:forest": "2025-04-18 04:19:33 +0000",
@@ -744,6 +745,12 @@
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-04-19 21:07:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-04-19 21:43:37 +0000"
     },
     "done": true
   },

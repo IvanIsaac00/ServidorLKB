@@ -1447,3 +1447,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 21:45:03.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Piglin Brute
 [19Apr2025 21:45:04.318] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
 [19Apr2025 21:45:05.432] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/29490, l='ServerLevel[world]', x=2061.18, y=1.21, z=1025.01, removed=DISCARDED]
+[19Apr2025 21:48:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Piglin Brute
+[19Apr2025 21:48:49.564] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[19Apr2025 21:48:52.008] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/29490, l='ServerLevel[world]', x=2061.18, y=1.21, z=1025.01, removed=DISCARDED]
+[19Apr2025 21:50:13.910] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[19Apr2025 21:50:14.068] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[19Apr2025 21:50:33.136] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/29490, l='ServerLevel[world]', x=2061.18, y=1.21, z=1025.01, removed=DISCARDED]
+[19Apr2025 21:53:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Tie me to the Mast]
+[19Apr2025 21:55:19.246] [pool-6-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2459, y=74, z=1861}
+[19Apr2025 21:55:22.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3010ms or 60 ticks behind
