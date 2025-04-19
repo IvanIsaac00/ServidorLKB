@@ -133,6 +133,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-19 03:30:13 +0000",
       "minecraft:birch_forest": "2025-04-19 02:33:24 +0000",
       "minecraft:windswept_hills": "2025-04-18 05:52:17 +0000",
       "minecraft:river": "2025-04-18 04:24:34 +0000",
@@ -430,9 +431,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-19 03:31:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-04-19 03:22:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-04-19 03:33:36 +0000"
     },
     "done": true
   },

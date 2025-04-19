@@ -429,6 +429,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-04-19 03:33:23 +0000"
+    },
+    "done": true
+  },
   "incendium:toxic_heap/slime_poison": {
     "criteria": {
       "poison": "2025-04-19 03:14:46 +0000"

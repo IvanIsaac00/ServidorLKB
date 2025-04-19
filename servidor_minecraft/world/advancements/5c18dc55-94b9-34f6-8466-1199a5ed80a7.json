@@ -556,6 +556,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-19 03:36:36 +0000"
+    },
+    "done": false
+  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-04-19 02:09:56 +0000"
@@ -619,6 +625,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-04-19 02:52:37 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-04-19 03:23:46 +0000"
     },
     "done": true
   },
