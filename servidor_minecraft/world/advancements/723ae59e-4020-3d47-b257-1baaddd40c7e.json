@@ -383,12 +383,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-19 02:23:28 +0000"
-    },
-    "done": false
-  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2025-04-19 01:54:35 +0000"
@@ -398,6 +392,12 @@
   "undead_revamp2:mommy": {
     "criteria": {
       "mommy": "2025-04-19 01:54:50 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly": "2025-04-19 02:25:38 +0000"
     },
     "done": true
   },
