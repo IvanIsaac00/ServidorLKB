@@ -417,6 +417,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-04-19 02:22:56 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2025-04-19 01:59:23 +0000"
