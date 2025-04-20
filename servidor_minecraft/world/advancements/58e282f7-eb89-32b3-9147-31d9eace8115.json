@@ -654,5 +654,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-20 04:01:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
