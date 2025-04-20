@@ -1058,3 +1058,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 03:22:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter withered away whilst fighting Deepling
 [20Apr2025 03:22:55.579] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
 [20Apr2025 03:22:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to gerar3souls]
+[20Apr2025 03:25:02.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:25:06.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:26:13.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:26:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by TuGfecitaEn4
+[20Apr2025 03:26:56.572] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 03:27:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:27:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 fell from a high place
+[20Apr2025 03:27:51.328] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 03:29:12.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was impaled by Deepling
+[20Apr2025 03:29:12.567] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 03:29:15.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:30:30.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AidenOtter lost connection: Disconnected
+[20Apr2025 03:30:30.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter left the game
+[20Apr2025 03:31:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by Deepling
+[20Apr2025 03:31:21.628] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 03:31:49.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 withered away whilst fighting Hoglin
+[20Apr2025 03:31:49.861] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 03:32:12.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AidenOtter[/127.150.10.199:37221] logged in with entity id 112335 at (1918.7219570757475, 26.0, 5137.546462577048)
+[20Apr2025 03:32:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter joined the game
+[20Apr2025 03:32:15.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:33:12.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:33:46.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by Deepling Brute
+[20Apr2025 03:33:47.405] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 03:33:50.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
