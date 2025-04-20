@@ -6394,3 +6394,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 04:56:55.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241
 [20Apr2025 04:56:55.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241
 [20Apr2025 04:56:55.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241
+[20Apr2025 04:57:19.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 04:57:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to 13.500000, 89.500000, -866.500000]
+[20Apr2025 04:57:39.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5642ms or 112 ticks behind
+[20Apr2025 04:58:24.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[20Apr2025 04:58:41.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[20Apr2025 04:58:50.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerar3souls[/127.199.222.29:47759] logged in with entity id 223860 at (1882.9909129586288, 64.0, 5263.019509190289)
+[20Apr2025 04:58:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls joined the game
+[20Apr2025 04:58:58.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [breideuS: Teleported breideuS to AidenOtter]
+[20Apr2025 04:59:09.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [breideuS: Teleported breideuS to TuGfecitaEn4]
+[20Apr2025 04:59:17.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 04:59:27.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 05:00:08.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to TuGfecitaEn4]
+[20Apr2025 05:00:26.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Sea? Not a Problem]
+[20Apr2025 05:01:16.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 05:02:11.083] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[20Apr2025 05:02:11.083] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[20Apr2025 05:02:11.084] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[20Apr2025 05:02:11.084] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[20Apr2025 05:02:31.186] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[20Apr2025 05:02:31.194] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[20Apr2025 05:02:36.623] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[20Apr2025 05:02:36.623] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[20Apr2025 05:02:36.624] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[20Apr2025 05:05:04.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [The Song of the Dragons]
+[20Apr2025 05:05:14.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [The Song of the Dragons]
+[20Apr2025 05:07:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Poseidon, God of the Seas]
