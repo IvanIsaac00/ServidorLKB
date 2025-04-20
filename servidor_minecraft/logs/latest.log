@@ -747,3 +747,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 02:00:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter died
 [20Apr2025 02:00:07.972] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
 [20Apr2025 02:01:14.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Cobweb Entanglement]
+[20Apr2025 02:01:57.601] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[20Apr2025 02:01:57.602] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[20Apr2025 02:01:57.602] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[20Apr2025 02:01:57.602] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[20Apr2025 02:01:57.602] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[20Apr2025 02:01:58.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AidenOtter moved too quickly! -0.31645650574319006,-0.023088109101536247,10.271045455865078
+[20Apr2025 02:02:03.519] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[20Apr2025 02:02:55.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18895, l='ServerLevel[world]', x=2437.84, y=64.00, z=2971.50] died, message: 'Villager was shot by Stymphalian Bird'
+[20Apr2025 02:03:05.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19174, l='ServerLevel[world]', x=2430.16, y=64.00, z=2970.69] died, message: 'Villager was shot by Stymphalian Bird'
+[20Apr2025 02:03:40.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17269, l='ServerLevel[world]', x=2399.99, y=63.00, z=2954.48] died, message: 'Beekeeper was shot by Stymphalian Bird'
+[20Apr2025 02:03:47.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerar3souls[/127.199.222.29:54259] logged in with entity id 23049 at (139.08448410690374, 113.0, -1216.1025632928972)
+[20Apr2025 02:03:47.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls joined the game
+[20Apr2025 02:04:28.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/17854, l='ServerLevel[world]', x=2402.99, y=63.00, z=2960.66] died, message: 'Beekeeper was shot by Stymphalian Bird'
+[20Apr2025 02:04:46.433] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=2213, y=68, z=3125}
+[20Apr2025 02:04:47.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2213, y=68, z=3125} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[20Apr2025 02:04:47.680] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=2213, y=68, z=3125}
+[20Apr2025 02:05:06.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Apr2025 02:05:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Made gerar3souls a server operator]
+[20Apr2025 02:05:23.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
+[20Apr2025 02:05:24.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:06:07.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17190, l='ServerLevel[world]', x=2421.27, y=79.00, z=2917.81] died, message: 'Fisherman was shot by Stymphalian Bird'
+[20Apr2025 02:06:48.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls walked into fire whilst fighting Fire Dragon
+[20Apr2025 02:06:49.585] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:06:51.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/17189, l='ServerLevel[world]', x=2414.03, y=78.00, z=2918.63] died, message: 'Fisherman was shot by Stymphalian Bird'
+[20Apr2025 02:09:09.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> ola
+[20Apr2025 02:13:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was burnt to a crisp whilst fighting Husk
+[20Apr2025 02:13:43.031] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 02:13:51.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18894, l='ServerLevel[world]', x=2477.89, y=85.00, z=2963.77] died, message: 'Nitwit hit the ground too hard whilst trying to escape Stymphalian Bird'
+[20Apr2025 02:13:51.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sopita0n0: Teleported Sopita0n0 to AidenOtter]
+[20Apr2025 02:15:26.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was turned into KFC by Fire Dragon
+[20Apr2025 02:15:27.105] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:15:39.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> por que no ds?
+[20Apr2025 02:16:10.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> qwueri hacer dungeon
+[20Apr2025 02:18:10.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Ghost
+[20Apr2025 02:18:10.724] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 02:18:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls fell from a high place
+[20Apr2025 02:18:12.619] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:18:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sopita0n0: Teleported Sopita0n0 to AidenOtter]
+[20Apr2025 02:20:20.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:20:25.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> ya puedes hacer tp tat
+[20Apr2025 02:20:58.496] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/3063, l='ServerLevel[world]', x=227.23, y=70.00, z=-1030.30] died, message: 'Beekeeper hit the ground too hard'
+[20Apr2025 02:21:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls has made the advancement [Cobweb Entanglement]
+[20Apr2025 02:21:49.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was turned into KFC by Fire Dragon
+[20Apr2025 02:21:50.309] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:21:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AidenOtter> tata ven ds
+[20Apr2025 02:24:15.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sopita0n0: Teleported Sopita0n0 to AidenOtter]
+[20Apr2025 02:24:16.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls walked into fire whilst fighting Fire Dragon
+[20Apr2025 02:24:17.413] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:24:17.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AidenOtter moved too quickly! -0.9759962846048893,-10.552241243705595,-0.3809755698189292
+[20Apr2025 02:24:24.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:24:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Ghost Riders In The Sky]
+[20Apr2025 02:24:35.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 has made the advancement [Ghost Riders In The Sky]
+[20Apr2025 02:26:10.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was doomed to fall
+[20Apr2025 02:26:10.620] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[20Apr2025 02:26:17.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:26:31.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was turned into KFC by Fire Dragon
+[20Apr2025 02:26:31.771] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:26:34.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has reached the goal [Hunted]
+[20Apr2025 02:26:58.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerar3souls lost connection: Disconnected
+[20Apr2025 02:26:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls left the game
+[20Apr2025 02:28:41.366] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerar3souls[/127.199.222.29:35737] logged in with entity id 46446 at (232.57539550161385, 62.0, -1017.6999999880791)
+[20Apr2025 02:28:41.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls joined the game
+[20Apr2025 02:29:14.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was burnt to a crisp whilst fighting Wither Skeleton
+[20Apr2025 02:29:14.917] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 02:29:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was doomed to fall
+[20Apr2025 02:29:18.874] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[20Apr2025 02:29:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:30:02.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:30:46.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was burnt to a crisp whilst fighting Fire Dragon
+[20Apr2025 02:30:46.524] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 02:34:01.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was slain by Hoglin
+[20Apr2025 02:34:01.093] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[20Apr2025 02:34:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:34:12.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was burnt to a crisp whilst fighting Wither Skeleton
+[20Apr2025 02:34:13.193] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 02:34:20.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sopita0n0: Teleported Sopita0n0 to AidenOtter]
+[20Apr2025 02:34:50.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/3006, l='ServerLevel[world]', x=183.46, y=45.00, z=-1059.30] died, message: 'Beekeeper hit the ground too hard'
+[20Apr2025 02:35:45.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/3321, l='ServerLevel[world]', x=262.62, y=64.00, z=-1047.26] died, message: 'Toolsmith was slain by Slugger'
+[20Apr2025 02:36:41.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was squashed by a falling anvil
+[20Apr2025 02:36:41.521] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[20Apr2025 02:36:45.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:37:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:37:42.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to Sopita0n0]
+[20Apr2025 02:38:37.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [Splintering II]
+[20Apr2025 02:38:47.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has made the advancement [A Flaming Sword]
+[20Apr2025 02:41:55.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported gerar3souls to AidenOtter]
+[20Apr2025 02:42:21.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was turned to stone by Gorgon
+[20Apr2025 02:42:22.361] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
