@@ -1082,3 +1082,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 03:33:46.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls was slain by Deepling Brute
 [20Apr2025 03:33:47.405] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
 [20Apr2025 03:33:50.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:34:11.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/113953, l='ServerLevel[world]', x=1784.50, y=39.00, z=5094.50]
+[20Apr2025 03:34:14.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Deepling Brute
+[20Apr2025 03:34:14.373] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[20Apr2025 03:34:18.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 03:35:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Hoglin
+[20Apr2025 03:35:35.942] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 03:35:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 03:38:24.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerar3souls withered away whilst fighting Deepling
+[20Apr2025 03:38:24.937] [Server thread/INFO] [tombstone/]: The player gerar3souls has successfully been saved
+[20Apr2025 03:38:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gerar3souls: Teleported gerar3souls to AidenOtter]
+[20Apr2025 03:38:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Deepling
+[20Apr2025 03:38:30.037] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[20Apr2025 03:38:32.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 03:39:13.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to gerar3souls]
+[20Apr2025 03:39:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Coralssus
+[20Apr2025 03:39:26.428] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[20Apr2025 03:39:30.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 03:39:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter was slain by Deepling Brute
+[20Apr2025 03:39:54.131] [Server thread/INFO] [tombstone/]: The player AidenOtter has successfully been saved
+[20Apr2025 03:40:39.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 fell while climbing
+[20Apr2025 03:40:39.168] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[20Apr2025 03:40:41.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 03:41:13.665] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[20Apr2025 03:41:26.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Apr2025 03:42:45.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to gerar3souls]
+[20Apr2025 03:43:17.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to gerar3souls]
+[20Apr2025 03:43:58.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to gerar3souls]
