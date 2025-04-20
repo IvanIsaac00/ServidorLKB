@@ -16,5 +16,11 @@
     "name": "gerar3souls",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e9e8efc9-adc8-352e-a7be-932c494ec82d",
+    "name": "TuGfecitaEn4",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

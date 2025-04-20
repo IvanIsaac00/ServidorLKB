@@ -800,6 +800,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-20 02:43:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "phantom": "2025-04-20 02:26:04 +0000"
