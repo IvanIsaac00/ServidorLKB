@@ -134,6 +134,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mushroom_fields": "2025-04-20 03:46:18 +0000",
+      "minecraft:deep_ocean": "2025-04-20 04:46:46 +0000",
       "minecraft:cherry_grove": "2025-04-19 03:30:13 +0000",
       "minecraft:birch_forest": "2025-04-19 02:33:24 +0000",
       "minecraft:windswept_hills": "2025-04-18 05:52:17 +0000",
@@ -254,13 +255,15 @@
       "minecraft:pillager": "2025-04-18 05:38:33 +0000",
       "minecraft:skeleton": "2025-04-18 06:25:06 +0000",
       "minecraft:ravager": "2025-04-19 02:39:20 +0000",
+      "minecraft:guardian": "2025-04-20 04:52:59 +0000",
       "minecraft:vindicator": "2025-04-18 05:39:24 +0000",
       "minecraft:spider": "2025-04-18 06:06:47 +0000",
       "minecraft:witch": "2025-04-19 02:30:04 +0000",
       "minecraft:wither_skeleton": "2025-04-18 06:09:28 +0000",
       "minecraft:cave_spider": "2025-04-18 06:17:39 +0000",
       "minecraft:vex": "2025-04-19 02:41:33 +0000",
-      "minecraft:zombie": "2025-04-18 04:38:57 +0000"
+      "minecraft:zombie": "2025-04-18 04:38:57 +0000",
+      "minecraft:drowned": "2025-04-20 04:48:54 +0000"
     },
     "done": false
   },
@@ -484,6 +487,12 @@
   "tombstone:adventure/expert_searcher": {
     "criteria": {
       "find_easter_egg": "2025-04-20 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 04:48:43 +0000"
     },
     "done": true
   },

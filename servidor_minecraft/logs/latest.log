@@ -6353,3 +6353,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Apr2025 04:46:20.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
 [20Apr2025 04:46:42.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [20Apr2025 04:46:46.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has made the advancement [Voluntary Exile]
+[20Apr2025 04:47:02.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4498ms or 89 ticks behind
+[20Apr2025 04:47:10.808] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/208678, l='ServerLevel[world]', x=1262.50, y=71.00, z=8494.50]
+[20Apr2025 04:47:24.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20Apr2025 04:47:46.278] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:47:48.434] [pool-6-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=1557, y=77, z=4277}
+[20Apr2025 04:47:50.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=77, z=4278} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] at location
+[20Apr2025 04:47:50.780] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1557, y=77, z=4278}
+[20Apr2025 04:47:50.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=76, z=4278} but found not block entity block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] at location
+[20Apr2025 04:47:50.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{supplementaries:candle_holder}[candles=1,face=ceiling,facing=north,lit=true,waterlogged=false] but failed at location BlockPos{x=1557, y=76, z=4278}
+[20Apr2025 04:47:50.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1557, y=77, z=4277} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[20Apr2025 04:47:50.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=1557, y=77, z=4277}
+[20Apr2025 04:48:06.940] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:48:35.831] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:48:43.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 has made the advancement [Sea? Not a Problem]
+[20Apr2025 04:48:47.329] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:48:49.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AidenOtter has reached the goal [Great minds think alike]
+[20Apr2025 04:49:04.993] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:49:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AidenOtter: Teleported AidenOtter to TuGfecitaEn4]
+[20Apr2025 04:49:21.712] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:50:30.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 was slain by Savannah Zombie
+[20Apr2025 04:50:30.087] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 04:50:31.302] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:50:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TuGfecitaEn4 was slain by Sea Serpent
+[20Apr2025 04:50:50.318] [Server thread/INFO] [tombstone/]: The player TuGfecitaEn4 has successfully been saved
+[20Apr2025 04:50:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sopita0n0 blew up
+[20Apr2025 04:50:52.051] [Server thread/INFO] [tombstone/]: The player Sopita0n0 has successfully been saved
+[20Apr2025 04:50:54.034] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:50:56.818] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:51:02.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TuGfecitaEn4: Teleported TuGfecitaEn4 to AidenOtter]
+[20Apr2025 04:51:20.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has reached the goal [Fortuitous Militia]
+[20Apr2025 04:51:59.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [breideuS: Teleported breideuS to AidenOtter]
+[20Apr2025 04:53:13.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: breideuS has made the advancement [Sea? Not a Problem]
+[20Apr2025 04:53:25.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1643, y=41, z=4098} BlockPos{x=1643, y=40, z=4098}
+[20Apr2025 04:53:43.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [breideuS: Teleported breideuS to Sopita0n0]
+[20Apr2025 04:53:43.534] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/198577, l='ServerLevel[world]', x=1527.61, y=-3.87, z=8482.70, removed=DISCARDED]
+[20Apr2025 04:55:17.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Apr2025 04:56:16.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20Apr2025 04:56:34.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[20Apr2025 04:56:55.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241
+[20Apr2025 04:56:55.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241
+[20Apr2025 04:56:55.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AidenOtter) moved wrongly! 0.3380738790265241

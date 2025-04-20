@@ -133,6 +133,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-20 04:51:59 +0000",
       "minecraft:sunflower_plains": "2025-04-18 05:21:40 +0000",
       "minecraft:cherry_grove": "2025-04-18 05:52:38 +0000",
       "minecraft:birch_forest": "2025-04-18 05:04:30 +0000",
@@ -197,6 +198,7 @@
       "bread": "2025-04-18 05:04:12 +0000",
       "cookie": "2025-04-18 06:02:25 +0000",
       "melon_slice": "2025-04-18 06:17:34 +0000",
+      "cod": "2025-04-20 04:51:07 +0000",
       "carrot": "2025-04-18 06:03:33 +0000"
     },
     "done": false
@@ -299,9 +301,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-20 04:44:32 +0000",
+      "minecraft:guardian": "2025-04-20 04:53:28 +0000",
       "minecraft:spider": "2025-04-18 06:22:35 +0000",
       "minecraft:wither_skeleton": "2025-04-18 06:12:24 +0000",
-      "minecraft:cave_spider": "2025-04-18 06:04:48 +0000"
+      "minecraft:cave_spider": "2025-04-18 06:04:48 +0000",
+      "minecraft:zombie": "2025-04-20 04:45:33 +0000"
     },
     "done": false
   },
@@ -380,6 +385,36 @@
   "tombstone:adventure/expert_searcher": {
     "criteria": {
       "find_easter_egg": "2025-04-20 04:34:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 04:53:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 04:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-20 04:46:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 04:51:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 04:45:33 +0000"
     },
     "done": true
   },
