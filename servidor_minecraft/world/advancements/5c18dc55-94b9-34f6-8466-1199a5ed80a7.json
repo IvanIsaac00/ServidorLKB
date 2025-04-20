@@ -803,15 +803,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_bandit_village": {
-    "criteria": {
-      "location0": "2025-04-20 03:11:56 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-04-20 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-20 02:26:04 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-20 02:43:07 +0000"
     },
     "done": true
   },
@@ -833,15 +839,16 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "dungeons_arise:find_bandit_village": {
     "criteria": {
-      "bestiary": "2025-04-20 02:43:07 +0000"
+      "location0": "2025-04-20 03:11:56 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
+  "quark:get_all_corundum": {
     "criteria": {
-      "phantom": "2025-04-20 02:26:04 +0000"
+      "green": "2025-04-20 04:04:03 +0000",
+      "yellow": "2025-04-20 04:04:10 +0000"
     },
     "done": false
   },
