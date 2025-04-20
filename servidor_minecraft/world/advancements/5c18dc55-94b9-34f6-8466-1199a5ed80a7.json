@@ -718,105 +718,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 23:30:54 +0000"
-    },
-    "done": false
-  },
-  "undead_revamp2:nowyouknow": {
-    "criteria": {
-      "nowyouknow": "2025-04-19 23:09:55 +0000"
+      "killed_fire_dragon": "2025-04-19 21:07:51 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "dungeons_arise:find_illager_windmill": {
     "criteria": {
-      "lava_bucket": "2025-04-19 22:08:53 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2025-04-19 21:38:13 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location1": "2025-04-19 22:54:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-04-19 21:29:24 +0000"
+      "location0": "2025-04-19 21:13:35 +0000"
     },
     "done": true
   },
@@ -832,9 +742,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-19 21:53:21 +0000"
+      "kill_mob_near_sculk_catalyst": "2025-04-19 21:29:24 +0000"
     },
     "done": true
   },
@@ -844,9 +754,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "dungeons_arise:find_mushroom_village": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-19 21:07:51 +0000"
+      "location0": "2025-04-19 21:38:13 +0000"
     },
     "done": true
   },
@@ -856,9 +766,27 @@
     },
     "done": true
   },
-  "dungeons_arise:find_illager_windmill": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "location0": "2025-04-19 21:13:35 +0000"
+      "killed_fire_dragon": "2025-04-19 21:53:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-19 22:08:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-04-19 22:54:27 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2025-04-19 23:09:55 +0000"
     },
     "done": true
   },
