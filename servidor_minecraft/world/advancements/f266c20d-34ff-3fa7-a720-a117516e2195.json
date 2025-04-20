@@ -147,6 +147,7 @@
       "minecraft:grove": "2025-04-18 05:51:42 +0000",
       "minecraft:forest": "2025-04-18 04:19:45 +0000",
       "minecraft:lush_caves": "2025-04-18 05:49:02 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-20 02:56:48 +0000",
       "minecraft:frozen_peaks": "2025-04-18 05:02:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 05:42:48 +0000",
       "minecraft:deep_dark": "2025-04-18 05:28:22 +0000",
@@ -313,6 +314,7 @@
       "cooked_porkchop": "2025-04-19 01:42:22 +0000",
       "cooked_beef": "2025-04-18 05:29:42 +0000",
       "potato": "2025-04-19 02:16:10 +0000",
+      "pumpkin_pie": "2025-04-20 02:58:39 +0000",
       "bread": "2025-04-18 06:18:09 +0000"
     },
     "done": false
@@ -368,9 +370,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-19 02:38:17 +0000",
+      "minecraft:skeleton": "2025-04-20 02:48:31 +0000",
       "minecraft:vindicator": "2025-04-19 02:41:48 +0000",
       "minecraft:spider": "2025-04-19 02:26:53 +0000",
       "minecraft:witch": "2025-04-19 02:58:55 +0000",
+      "minecraft:husk": "2025-04-20 02:50:04 +0000",
       "minecraft:zombie": "2025-04-19 01:47:00 +0000"
     },
     "done": false
@@ -450,6 +454,18 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-04-20 02:47:08 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-20 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-20 02:49:33 +0000"
     },
     "done": true
   },

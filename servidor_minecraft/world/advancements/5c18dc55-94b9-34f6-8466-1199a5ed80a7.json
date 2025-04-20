@@ -135,6 +135,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-19 21:50:55 +0000",
       "minecraft:taiga": "2025-04-19 21:07:20 +0000",
+      "minecraft:deep_ocean": "2025-04-20 02:51:31 +0000",
       "minecraft:frozen_river": "2025-04-19 21:16:38 +0000",
       "minecraft:cherry_grove": "2025-04-18 06:25:33 +0000",
       "minecraft:sunflower_plains": "2025-04-19 21:02:51 +0000",
@@ -156,6 +157,7 @@
       "minecraft:ocean": "2025-04-19 23:02:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-19 21:50:51 +0000",
       "minecraft:snowy_beach": "2025-04-19 21:16:37 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-20 02:54:41 +0000",
       "minecraft:flower_forest": "2025-04-19 21:03:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-18 04:37:49 +0000",
       "minecraft:meadow": "2025-04-18 04:32:48 +0000",
@@ -797,6 +799,24 @@
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-04-20 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-20 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-20 02:55:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-20 02:56:55 +0000"
     },
     "done": true
   },
