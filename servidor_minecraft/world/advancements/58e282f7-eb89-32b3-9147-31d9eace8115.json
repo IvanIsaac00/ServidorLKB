@@ -139,6 +139,7 @@
       "minecraft:windswept_hills": "2025-04-18 05:52:23 +0000",
       "minecraft:beach": "2025-04-20 02:42:13 +0000",
       "minecraft:river": "2025-04-18 04:31:12 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-20 03:18:12 +0000",
       "minecraft:stony_shore": "2025-04-20 02:41:29 +0000",
       "minecraft:dripstone_caves": "2025-04-18 05:24:44 +0000",
       "minecraft:forest": "2025-04-18 01:15:18 +0000",
@@ -630,6 +631,12 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-04-20 02:38:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 03:00:03 +0000"
     },
     "done": true
   },
